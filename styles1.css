@@ -191,3 +191,12 @@ main{
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
 }
+.video-creator, .title span{
+    color: rgb(96, 96, 96);
+    font-size: 1.4rem;
+    line-height: 2rem;
+    font-weight: 400;
+}
+.video-creator:hover{
+    color: black;
+}
